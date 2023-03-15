@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zuwaynib
-- 👀 I’m interested in web development and Blockchain technology 
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on projects that are related to web development 
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on projects that are related to Software Development 
 - 📫 You can reach me at - zainabadeoje@gmail.com
 
 <!---
